@@ -1,0 +1,4 @@
+
+requests
+zapcli
+# Add other dependencies as needed
